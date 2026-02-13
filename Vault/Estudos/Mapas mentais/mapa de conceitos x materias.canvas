@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"9e5ee7e3c1980795","type":"file","file":"Vault/Estudos/Conceitos/Segurança da informação.md","x":-363,"y":-204,"width":400,"height":400},
+		{"id":"a3ae7d93b374d648","type":"file","file":"Vault/Estudos/Faculdade Anhaguera/Privacidade e proteção de dados/Privacidade e proteção de dados.md","x":-1378,"y":-608,"width":400,"height":400},
+		{"id":"8b2237e7e896c54c","type":"file","file":"Vault/Estudos/Faculdade Anhaguera/Arquitetura de redes/Unidade-1-Fundamentos.md","x":-1378,"y":-4,"width":400,"height":400},
+		{"id":"426a477cb5f75945","type":"file","file":"Vault/Estudos/Faculdade Anhaguera/Privacidade e proteção de dados/Unidade-2-Princípios da LGPD para o tratamento de dados direitos de titularidade de dados.md","x":-520,"y":-840,"width":400,"height":400},
+		{"id":"821163a787313d60","type":"file","file":"Vault/Estudos/Conceitos/LGPD.md","x":240,"y":-204,"width":400,"height":400},
+		{"id":"d70546a55ace2b06","type":"file","file":"Vault/Estudos/Conceitos/Dados sensiveis.md","x":840,"y":-204,"width":400,"height":400},
+		{"id":"faa613ccb81b6b01","type":"file","file":"Vault/Estudos/Cursos/Santander X Cibersegurança/fundamentos cybersecurity/detect.md","x":240,"y":-2040,"width":400,"height":400},
+		{"id":"adf614979c70a640","type":"file","file":"Vault/Estudos/Cursos/Santander X Cibersegurança/fundamentos cybersecurity/identify.md","x":840,"y":-2040,"width":400,"height":400},
+		{"id":"bca60a6b86b9ce60","type":"file","file":"Vault/Estudos/Cursos/Santander X Cibersegurança/fundamentos cybersecurity/protect.md","x":1400,"y":-2040,"width":400,"height":400},
+		{"id":"ac3da55863894e60","type":"file","file":"Vault/Estudos/Cursos/Santander X Cibersegurança/fundamentos cybersecurity/recover.md","x":1960,"y":-2040,"width":400,"height":400},
+		{"id":"308dc3db3b037566","type":"file","file":"Vault/Estudos/Cursos/Santander X Cibersegurança/fundamentos cybersecurity/respond.md","x":2440,"y":-2040,"width":400,"height":400},
+		{"id":"a9b8c852ec48074f","type":"file","file":"Vault/Estudos/Cursos/Santander X Cibersegurança/fundamentos cybersecurity/nist-framework.md","x":1400,"y":-1240,"width":400,"height":400},
+		{"id":"2b8b5264af7eff2c","type":"file","file":"Vault/Estudos/Faculdade Anhaguera/Privacidade e proteção de dados/Privacidade e proteção de dados.md","x":-800,"y":960,"width":400,"height":400},
+		{"id":"0375bdd6a205d9b6","type":"file","file":"Vault/Estudos/Faculdade Anhaguera/Privacidade e proteção de dados/Unidade-2-Princípios da LGPD para o tratamento de dados direitos de titularidade de dados.md","x":-127,"y":1174,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"8c2016dc5c62ae02","fromNode":"9e5ee7e3c1980795","fromSide":"top","toNode":"426a477cb5f75945","toSide":"bottom"},
+		{"id":"db00127c6c9301cc","fromNode":"9e5ee7e3c1980795","fromSide":"left","toNode":"a3ae7d93b374d648","toSide":"right"},
+		{"id":"121bb7d47bcbfe3e","fromNode":"9e5ee7e3c1980795","fromSide":"left","toNode":"8b2237e7e896c54c","toSide":"right"},
+		{"id":"6ed3c5558ee9068b","fromNode":"821163a787313d60","fromSide":"top","toNode":"a3ae7d93b374d648","toSide":"right"},
+		{"id":"ae592bcd76fd3b24","fromNode":"821163a787313d60","fromSide":"top","toNode":"426a477cb5f75945","toSide":"right"},
+		{"id":"6dcdd02f1b51bf15","fromNode":"d70546a55ace2b06","fromSide":"top","toNode":"426a477cb5f75945","toSide":"right"},
+		{"id":"c2d2d858c77722d1","fromNode":"a9b8c852ec48074f","fromSide":"top","toNode":"faa613ccb81b6b01","toSide":"bottom"},
+		{"id":"71794eec4756e4e7","fromNode":"a9b8c852ec48074f","fromSide":"top","toNode":"adf614979c70a640","toSide":"bottom"},
+		{"id":"e227955456171dfe","fromNode":"a9b8c852ec48074f","fromSide":"top","toNode":"bca60a6b86b9ce60","toSide":"bottom"},
+		{"id":"17c4fb7197b4edca","fromNode":"a9b8c852ec48074f","fromSide":"top","toNode":"ac3da55863894e60","toSide":"bottom"},
+		{"id":"8dae5d38c7ef5054","fromNode":"a9b8c852ec48074f","fromSide":"top","toNode":"308dc3db3b037566","toSide":"bottom"},
+		{"id":"fceb34c1f019a7a4","fromNode":"821163a787313d60","fromSide":"top","toNode":"a9b8c852ec48074f","toSide":"left"},
+		{"id":"deac00545d9c7219","fromNode":"a9b8c852ec48074f","fromSide":"left","toNode":"426a477cb5f75945","toSide":"right"},
+		{"id":"2529a941ee8849c3","fromNode":"9e5ee7e3c1980795","fromSide":"bottom","toNode":"2b8b5264af7eff2c","toSide":"top"},
+		{"id":"e34b73c692fad956","fromNode":"821163a787313d60","fromSide":"bottom","toNode":"2b8b5264af7eff2c","toSide":"top"},
+		{"id":"b4a8e42768f24e2c","fromNode":"2b8b5264af7eff2c","fromSide":"right","toNode":"0375bdd6a205d9b6","toSide":"left"}
+	]
+}
