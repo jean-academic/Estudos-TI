@@ -5,13 +5,6 @@ disciplina: Privacidade e Proteção de Dados
 tema: Unidade 2 — Tratamento e Ciclo de Vida dos Dados
 tags: [lgpd, dados, governanca, faculdade]
 ---
----
-tipo: aula
-instituicao: Anhanguera
-disciplina: Privacidade e Proteção de Dados
-tema: Unidade 2 — Princípios da LGPD e Tratamento de Dados
-tags: [lgpd, governanca, dados, faculdade]
----
 
 # Unidade 2 — Princípios da LGPD e Tratamento de Dados
 
