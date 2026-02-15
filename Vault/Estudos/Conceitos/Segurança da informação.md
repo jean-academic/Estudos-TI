@@ -1,4 +1,13 @@
-# Segurança da Informação
+---
+tags:
+  - cybersecurity
+  - dados
+  - governanca
+  - privacidade
+  - sc900
+  - seguranca
+---
+
 
 A segurança da informação protege dados, sistemas e infraestrutura contra
 acessos não autorizados, falhas e ataques.
