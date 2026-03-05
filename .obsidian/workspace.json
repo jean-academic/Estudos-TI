@@ -11,10 +11,14 @@
             "id": "c791a6bd136eef09",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Estudos/Cursos/Cisco Ethical hacking/Virtualização, ambientes de testes e comando básicos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Virtualização, ambientes de testes e comando básicos"
             }
           }
         ]
@@ -176,10 +180,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "5bb3c926f741b773",
+  "active": "c791a6bd136eef09",
   "lastOpenFiles": [
-    "Vault/Estudos/Mapas mentais/mapa de conceitos x materias.canvas",
+    "Vault/Estudos/Cursos/Cisco Ethical hacking/Considerações sobre Conformidade Regulamentar em Segurança da Informação.md",
+    "Vault/Estudos/Cursos/Cisco Ethical hacking/Virtualização, ambientes de testes e comando básicos.md",
+    "Vault/Estudos/Cursos/Cisco Ethical hacking/metodologias e tipos de pentest.md",
+    "Vault/Estudos/Cursos/Santander X Cibersegurança/fundamentos cybersecurity/nist-framework.md",
     "Vault/Estudos/Certificações/Ethical Hacking.md",
+    "Vault/Estudos/Faculdade Anhaguera/Privacidade e proteção de dados/Unidade 3 segurança da informação e consentimento na LGPD.md",
+    "Vault/Estudos/Cursos/Cisco Ethical hacking/Laboratorio de pentest.md",
+    "Vault/Estudos/Cursos/Cisco Ethical hacking/Fundamentos pentest.md",
+    "Vault/Estudos/Cursos/Cisco Ethical hacking",
+    "Vault/Estudos/Conceitos/Zero Trust.md",
+    "Vault/Estudos/Conceitos/Privacidade de dados.md",
+    "Vault/Estudos/Conceitos/Indentidade.md",
+    "Vault/Estudos/Conceitos/Dados.md",
+    "Vault/Estudos/Certificações/SC-900/introdução ao curso.md",
+    "Vault/Estudos/Certificações/SC-900",
+    "Vault/Estudos/Faculdade Anhaguera/Privacidade e proteção de dados/Privacidade e proteção de dados.md",
+    "Vault/Estudos/Mapas mentais/mapa de conceitos x materias.canvas",
     "Vault/Estudos/Certificações/SC-900.md",
     "Vault/Estudos/Cursos/Conceitos.md",
     "Vault/Estudos/Faculdade Anhaguera/Privacidade e proteção de dados/Unidade-2-Princípios da LGPD para o tratamento de dados direitos de titularidade de dados.md",
@@ -188,7 +207,6 @@
     "Vault/Estudos/Mapas mentais/LGPD.md",
     "Vault/Estudos/Faculdade Anhaguera/Arquitetura de redes/Unidade-1-Fundamentos.md",
     "Vault/templates/aula-anhanguera.md",
-    "Vault/Estudos/Faculdade Anhaguera/Privacidade e proteção de dados/Privacidade e proteção de dados.md",
     "Vault/Estudos/Faculdade Anhaguera/Privacidade e proteção de dados",
     "Vault/Estudos/Faculdade Anhaguera/Arquitetura de redes"
   ]
