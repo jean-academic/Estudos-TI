@@ -7,7 +7,7 @@ A segurança da informação protege:
 - usuários
 
 Relaciona-se com:
-- [[Estudos-TI/Vault/Estudos/Conceitos/LGPD]]
+- [[LGPD]]
 - [[Confidencialidade]]
 - [[Integridade]]
 - [[Disponibilidade]]
